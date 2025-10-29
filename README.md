@@ -7,7 +7,7 @@ I’m a **Physical Therapy Assistant** transitioning into **Data Science**, pass
 
 ### 🛠️ Tech Stack Python | Pandas | NumPy | scikit-learn | Matplotlib | SQL | AWS | Airflow | Power BI
 
-### 📈 Projects - 🏥 **Hospital Readmission Analysis** – Exploratory Data Analysis on patient data - 
+### 📈 Projects - 🏥 **Cancer Hospital Readmission Analysis** – Exploratory Data Analysis on patient data - 
 🧠 **Readmission Prediction Model** – ML model to predict patient outcomes 
 📊 **Streamlit Dashboard** – Interactive healthcare data visualization
 
